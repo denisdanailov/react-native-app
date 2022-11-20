@@ -1,10 +1,7 @@
 # Task Manager
 Testing React-native with Spring Boot 
 
-![app-preview]()
-
 <img src="https://github.com/denisdanailov/react-native-app/blob/main/Task-Manager-preview.gif" width="228"/>
-
 
 
 ### Technology Stack
