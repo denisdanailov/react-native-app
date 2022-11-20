@@ -20,10 +20,6 @@ Server Build      | gradle
 
 Note: Spring Boot Server App must be running before starting the client!
 
-When the server is running you can try to access the API for example to query all offers
-```
-url http://localhost:8080/api/offers/all
-```
 After starting the server you can install and run the client from the `client` folder:
 
 1. `npm install` (installs the node modules)
